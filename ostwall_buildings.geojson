@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6219382,
+          51.8405379
+        ]
+      },
+      "properties": {
+        "model-uri": "https://29simonb.github.io/bocholt-3d-buildings/ostwall_terrassen.glb",
+        "rotation": 358
+      }
+    }
+  ]
+}
